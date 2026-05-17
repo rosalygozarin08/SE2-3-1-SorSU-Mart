@@ -14,7 +14,6 @@ SorSU Mart is an innovative e-commerce platform designed specifically for the So
 
 ---
 CS 321 SOFTWARE ENGINEERING 2 
-
 (BSCS 3-1)
 
 2026
